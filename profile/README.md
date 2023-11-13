@@ -1,4 +1,6 @@
 # Hecate Lang
+
+<img src="https://github.com/hecate-lang/.github/blob/main/hecate_banner_upscaled_10.png" alt="" style="width: 200%; image-rendering: pixelated">
 This is the organization for the hecate language.
 
 ## License
